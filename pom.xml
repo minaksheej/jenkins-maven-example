@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.poc</groupId>
 	<artifactId>jenkins-maven-example</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>jenkins-maven-example</name>
 	<description>Demo project for jenkins-maven-example</description>
 	<properties>
